@@ -15,7 +15,7 @@ Expect grammar/spelling mistake and maybe a skip story (maybe I were spacing out
 #### About Author.
 ```
 This is my first (not quite) web-story. ( Maybe in future i'll made this to web-comic?? Maybe. ).
-I made this story just because i wanted to. 
-PS: this just make as an hobby.
+I made this story, because i wanted to. 
+PS: it's just an hobby.
 I'm a programmer??? shrug.
 ```
